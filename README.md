@@ -12,4 +12,7 @@ Not many hotels were supplied , I think only 2 in the
 VacationPY script , and tried variety of selection
 criteria for nice weather , but did not have great success
 in finding hotels within 10000 meters of city location .
+Also function in WeathePy for regression maps did not have
+annotate code since integer error was triggered when added 
+to function script .
 Alessia Presotto
